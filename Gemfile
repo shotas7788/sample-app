@@ -62,3 +62,17 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rspec'
+
+gem 'bootstrap', '~> 4.4.1'
+
+gem 'jquery-rails'
+
+gem 'carrierwave', '~> 1.0'
+
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
+
+gem 'font-awesome-rails'
+
+gem 'rails-i18n', '~> 5.1'
+
+gem 'rails-controller-testing'
